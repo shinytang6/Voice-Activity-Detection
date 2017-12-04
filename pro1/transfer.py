@@ -24,7 +24,9 @@ def transfer(data,outputFile):
 
     f.close()
 def main():
-    a = np.loadtxt('output.txt', skiprows=1)  
-    transfer(a,"output1.txt")
+    a = np.loadtxt('onset_a.txt', skiprows=1)  
+    transfer(a,"en_4092_a.trans")
+    b = np.loadtxt('onset_b.txt', skiprows=1)  
+    transfer(b,"en_4092_b.trans")
 
 main()

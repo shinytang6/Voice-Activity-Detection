@@ -39,4 +39,5 @@ def onset_detect(input_file, output_csv):
     librosa.output.times_csv(output_csv, onset_times)
     print('done!')
 
-onset_detect("en_4092_a.wav","output.txt")
+onset_detect("en_4092_a.wav","onset_a.txt")
+onset_detect("en_4092_b.wav","onset_b.txt")

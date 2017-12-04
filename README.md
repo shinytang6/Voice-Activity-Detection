@@ -9,11 +9,11 @@ This repo contains two labs in the course of Intelligent speech interaction.
 * [Python3](https://www.python.org/)
 * [Librosa](http://librosa.github.io/librosa/)
 * [Numpy](http://www.numpy.org/)
-* [sklearn](http://scikit-learn.org/)
+* [Scikit-learn](http://scikit-learn.org/)
 
 **Windows**
 
-	pip install librosa numpy sklearn
+	pip install librosa numpy scikit-learn
 
 ## Contents
 

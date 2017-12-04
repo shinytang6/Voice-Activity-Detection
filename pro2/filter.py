@@ -84,6 +84,4 @@ with open('vad.gmm', 'r') as f:
                     f3_weight.write(line[13:])
     print(total)
 
-a = np.loadtxt('noise_weight.txt')
-print(a.shape)
 
