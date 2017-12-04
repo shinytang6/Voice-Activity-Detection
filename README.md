@@ -30,7 +30,7 @@ usage:
 
 ### Lab2
 
-This lab uses a Machine learning approach(GMM) to achieve the same purpose as the lab1
+This lab uses a machine learning approach(GMM) to achieve the same purpose as the lab1.
 
 If you want to use your own wav file,please install HCopy first!
 
