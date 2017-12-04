@@ -1,5 +1,4 @@
 # Voice-Activity-Detection
-##
 
 ## Introduction
 
