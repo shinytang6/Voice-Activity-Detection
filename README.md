@@ -25,7 +25,7 @@ Aim: This project uses a simple speech endpoint detection algorithm to process w
 
 usage:
 
-	python final.py
+	python onset_detect.py
 	python transfer.py
 
 ### Lab2
