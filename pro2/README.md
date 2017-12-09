@@ -5,7 +5,6 @@
 
 Name: Tang Liang 
 
-Student Number: 515020910127
 
 ### Requirements
 ##
